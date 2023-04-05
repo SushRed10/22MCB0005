@@ -1,0 +1,11 @@
+source,dest,weight
+home,school,10
+school,hospital,15
+hospital,office,20
+home,post,10
+post,school,5
+post,mess,5
+hospital,mess,20
+mess,office,10
+school,mess,10
+post,hospital,10
